@@ -1,0 +1,14 @@
+Wordy App uses Image Recognition to identify images and traslates to multiple
+lanugages.Currently we have 7 languages to select from.
+
+Design:  Clean, Neat, Easy to use, User Friendly ( for children and old people.
+
+
+Useability:  Working on matching with variety of iphones.( So far, with iphone X )
+	     In the future, on ipad and andriod version as well.
+
+
+Avaiblility: Expected hoping to release on App Store later 2018.
+
+
+
